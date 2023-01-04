@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "430267030b0dea2208ac069809885340243a7b01bcd7451394b38182eefd903e"
+build_start_time: [1672857295, 877100944]
+build_end_time: [1672857304, 452857017]
+inputs:
+  ? "/Users/edesonbizerril/Documents/GitHub/buttom-example-dart-flutter/componentation_with_dart_flutter/macos/Flutter/GeneratedPluginRegistrant.swift"
+  : [1672857276, 173491239]
+  ? "/Users/edesonbizerril/Documents/GitHub/buttom-example-dart-flutter/componentation_with_dart_flutter/macos/Runner/AppDelegate.swift"
+  : [1655731964, 410630226]
+  ? "/Users/edesonbizerril/Documents/GitHub/buttom-example-dart-flutter/componentation_with_dart_flutter/macos/Runner/MainFlutterWindow.swift"
+  : [1655731964, 412051677]
