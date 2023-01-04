@@ -1,4 +1,8 @@
-# componentation_with_dart_flutter
+# Componentização de Widgets no Flutter com Atomic Design
+
+Este projeto é o materia de consulta de um artigo publicado no Medium. 
+Dar uma conferida.
+
 
 A new Flutter project.
 
