@@ -1,8 +1,8 @@
-import 'package:componentation_with_dart_flutter/components/atoms/dash_app_bar.dart';
-import 'package:componentation_with_dart_flutter/dash_button.dart';
 import 'package:flutter/material.dart';
 
 import '../../screens/second_screen.dart';
+import '../atoms/dash_app_bar.dart';
+import '../atoms/dash_button.dart';
 import '../organisms/container_buttons.dart';
 
 class HomeTemplate extends StatelessWidget {
@@ -29,9 +29,7 @@ class HomeTemplate extends StatelessWidget {
               textAlign: TextAlign.center,
             ),
             const SizedBox(height: 35),
-            ContainerButtons(
-              title: "Why do we use it?",
-            ),
+            const ContainerButtons(title: "Why do we use it?"),
             DashButton.primary(
               width: MediaQuery.of(context).size.width,
               icon: Icons.route,

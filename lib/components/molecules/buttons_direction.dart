@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../../dash_button.dart';
+import '../atoms/dash_button.dart';
 
 class ButtonsDirection extends StatelessWidget {
   const ButtonsDirection({Key? key}) : super(key: key);
